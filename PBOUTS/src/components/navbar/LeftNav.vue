@@ -5,9 +5,9 @@
     >
       <v-list>
         <v-list-item
-          prepend-avatar="https://th.bing.com/th/id/OIP.ePOE9pe2RM_2JgpMo66-_AHaFj?w=208&h=180&c=7&r=0&o=5&dpr=1.2&pid=1.7"
-          subtitle="naufal.ramadhan@widyatama.ac.id"
-          title="Naufal Ramadhan"
+          prepend-avatar="https://h7.alamy.com/comp/2PWERD5/student-avatar-illustration-simple-cartoon-user-portrait-user-profile-icon-youth-avatar-vector-illustration-2PWERD5.jpg"
+          subtitle="Farrel Fauzan Herawan"
+          title="Farrel Fauzan"
         ></v-list-item>
       </v-list>
 
